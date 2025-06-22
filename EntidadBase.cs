@@ -10,7 +10,7 @@
     /* Respuesta despues de ejecutar el metodo de getData a otro MicroServicio  */
     public class ResultadoRespuestaObtenerDatos
     {
-        /// <value>Codigo que retorna la API.</value>
+        /// <value>Codigo que retorna la Aa PI.</value>
         public int Codigo { get; set; }
         /// <value>Datos que retorna la API.</value>
         public string Datos { get; set; }
